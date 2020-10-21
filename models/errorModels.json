@@ -1,0 +1,51 @@
+{
+    "error_empty_form": {
+        "type": "Erreur",
+        "id": "0",
+        "nom":"error_empty_form",
+        "codeFrancais": "Formulaire vide"        
+    },
+    "error_unknow_piece": {
+        "type": "Erreur",
+        "id": "1",
+        "nom":"error_unknow_piece",
+        "codeFrancais": "Piece inexistante"        
+    },
+    "error_unknow_type": {
+        "type": "Erreur",
+        "id": "2",
+        "nom":"error_unknow_type",
+        "codeFrancais": "Type de carte non reconnu"        
+    },
+    "error_sensor_already_connected": {
+        "type": "Erreur",
+        "id": "3",
+        "nom":"error_sensor_already_connected",
+        "codeFrancais": "Le capteur ${nomCapteur} est deja connecte"        
+    },
+    "error_operator_already_connected": {
+        "type": "Erreur",
+        "id": "4",
+        "nom":"error_operator_already_connected",
+        "codeFrancais": "L'actionneur ${nomActionneur} est deja connecte"        
+    },
+    "warning_sensor_not_connected": {
+        "type": "Attention",
+        "id": "0",
+        "nom":"warning_sensor_not_connected",
+        "codeFrancais": "Le capteur ${nomCapteur} n'est pas connecte"        
+    },
+    "warning_sensor_disconnected": {
+        "type": "Attention",
+        "id": "1",
+        "nom":"warning_sensor_disconnected",
+        "codeFrancais": "Le capteur ${nomCapteur} s'est deconnecte"        
+    },
+    "update_sensor_connected": {
+        "type": "Maj",
+        "id": "0",
+        "nom":"update_sensor_connected",
+        "codeFrancais": "Le capteur ${nomCapteur} vient de se connecte"        
+    }
+
+}
